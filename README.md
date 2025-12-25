@@ -25,11 +25,11 @@ Key Features of the Project:
 
 The models were evaluated based on Accuracy, Precision, and Recall. Below are the results from the top-performing classifiers:
 
-Model	            Accuracy Precision Recall
-LGBM Classifier 	86.65%	 0.7316	   0.5012
-CatBoost Classifier	86.65%	 0.7461	   0.4860
-AdaBoost Classifier	85.95%	 0.7029	   0.4936
-XGBoost Classifier	85.75%	 0.6742	   0.5318
+Model,Accuracy,Precision,Recall
+LGBM Classifier,86.65%,0.7316,0.5012
+CatBoost Classifier,86.65%,0.7461,0.4860
+AdaBoost Classifier,85.95%,0.7029,0.4936
+XGBoost Classifier,85.75%,0.6742,0.5318
 
 Key Insight: While CatBoost and LightGBM provide the highest overall accuracy, XGBoost offers a better balance for Recall, making it more effective at identifying actual churners.
 
