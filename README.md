@@ -8,34 +8,6 @@ File: Churn_Modelling.xls
 
 Size: ~10,000 rows, 14 features
 
-Target Variable: Exited
-
-0 → Customer stayed
-
-1 → Customer left the bank
-
-Key Features
-
-CreditScore
-
-Geography
-
-Gender
-
-Age
-
-Tenure
-
-Balance
-
-Number of Products
-
-Has Credit Card
-
-Is Active Member
-
-Estimated Salary
-
 ⚙️ Methods & Techniques
 
 Data Cleaning
