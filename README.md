@@ -32,6 +32,7 @@ AdaBoost Classifier	85.95%	 0.7029	   0.4936
 XGBoost Classifier	85.75%	 0.6742	   0.5318
 
 Key Insight: While CatBoost and LightGBM provide the highest overall accuracy, XGBoost offers a better balance for Recall, making it more effective at identifying actual churners.
+
 🔍 Visual Insights
 
     Age: Customers between the ages of 40-60 show a significantly higher churn rate.
