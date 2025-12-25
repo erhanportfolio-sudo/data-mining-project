@@ -22,9 +22,9 @@ The models were evaluated based on Accuracy, Precision, and Recall. Below are th
 
 | Model | Accuracy | Precision | Recall |
 | :--- | :---: | :---: | :---: |
-| 🏆 **CatBoostClassifier** | **0.8665** | **0.7461** | 0.4860 |
-| 🚀 **LGBMClassifier** | **0.8665** | 0.7316 | 0.5064 |
-| ⚡ **XGBoostClassifier** | 0.8600 | 0.6865 | **0.5293** |
+| 🏆 **CatBoostClassifier** | 0.8665 | 0.7461 | 0.4860 |
+| 🚀 **LGBMClassifier** | 0.8665 | 0.7316 | 0.5064 |
+| ⚡ **XGBoostClassifier** | 0.8600 | 0.6865 | 0.5293 |
 | 🛠️ **AdaBoostClassifier** | 0.8595 | 0.7205 | 0.4656 |
 | 🌳 **DecisionTreeClassifier** | 0.8440 | 0.6695 | 0.4071 |
 | 📍 **KNN** | 0.8295 | 0.5963 | 0.4097 |
@@ -39,12 +39,6 @@ The models were evaluated based on Accuracy, Precision, and Recall. Below are th
 * **Product Usage:** Customers with **3 or 4 products** have an extremely high probability of churning. This might indicate over-saturation or dissatisfaction with bundled services.
 * **Geography:** **Germany** has a higher churn rate compared to France and Spain, suggesting region-specific market dynamics or competitor pressure.
 
-
-
-## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/project-name.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook Banking_Churn_Project.ipynb`
 
 ---
 
