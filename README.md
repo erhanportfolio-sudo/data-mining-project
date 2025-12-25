@@ -25,29 +25,29 @@ Key Features of the Project:
 
 The models were evaluated based on Accuracy, Precision, and Recall. Below are the results from the top-performing classifiers:
 
-Models 	Accuracy 	Precision 	Recall
+Models,  Accuracy,  Precision,  Recall
 
-0 	LogisticRegression 	0.8110 	0.552448 	0.201018
+ 	LogisticRegression 	0.8110 	0.552448 	0.201018
 
-1 	SVC 	0.8820 	0.828452 	0.503817
+ 	SVC 	0.8820 	0.828452 	0.503817
 
-2 	KNN 	0.8295 	0.596296 	0.409669
+	KNN 	0.8295 	0.596296 	0.409669
 
-3 	DecisionTreeClassifier 	0.8440 	0.669456 	0.407125
+	DecisionTreeClassifier 	0.8440 	0.669456 	0.407125
 
-4 	RandomForestClassifier 	0.8035 	0.000000 	0.000000
+ 	RandomForestClassifier 	0.8035 	0.000000 	0.000000
 
-5 	BaggingClassifier 	0.8440 	0.669456 	0.407125
+ 	BaggingClassifier 	0.8440 	0.669456 	0.407125
 
-6 	ExtraTreesClassifier 	0.8035 	0.000000 	0.000000
+ 	ExtraTreesClassifier 	0.8035 	0.000000 	0.000000
 
-7 	XGBoostClassifier 	0.8600 	0.686469 	0.529262
+ 	XGBoostClassifier 	0.8600 	0.686469 	0.529262
 
-8 	AdaBoostClassifier 	0.8595 	0.720472 	0.465649
+ 	AdaBoostClassifier 	0.8595 	0.720472 	0.465649
 
-9 	CatBoostClassifier 	0.8665 	0.746094 	0.486005
+ 	CatBoostClassifier 	0.8665 	0.746094 	0.486005
 
-10 	LGBMClassifier 	0.8665 	0.731618 	0.506361
+ 	LGBMClassifier 	0.8665 	0.731618 	0.506361
 
 Key Insight: While CatBoost and LightGBM provide the highest overall accuracy, XGBoost offers a better balance for Recall, making it more effective at identifying actual churners.
 
